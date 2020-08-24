@@ -1,0 +1,10 @@
+{
+  "user": {
+    "id": "e484e02d-afaf-4787-af71-72059fba01ee",
+    "name": "Hugo Matheus",
+    "phone": "81985545121",
+    "email": "limabrot879@gmail.com",
+    "password": "$2a$08$neBj6EtkRAy0rbWoOZ4w6edQI1LEdcZrINMiygyXeEk3b0a1k5NYe"
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU0ODRlMDJkLWFmYWYtNDc4Ny1hZjcxLTcyMDU5ZmJhMDFlZSIsImlhdCI6MTU5ODAzNzU5Mn0.McLZIRWcyQflQ4Op2VK1JWGaW0nC2l5kKrZClTrH6eM"
+}
